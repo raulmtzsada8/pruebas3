@@ -1,0 +1,8 @@
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\bin\Debug\PruebaGithub.exe.config
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\bin\Debug\PruebaGithub.exe
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\bin\Debug\PruebaGithub.pdb
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\obj\Debug\PruebaGithub.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\obj\Debug\PruebaGithub.Properties.Resources.resources
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\obj\Debug\PruebaGithub.csproj.GenerateResource.Cache
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\obj\Debug\PruebaGithub.exe
+C:\Users\Raul\Documents\Visual Studio 2012\Projects\GithubPruebas\Preubas\PruebaGithub\PruebaGithub\obj\Debug\PruebaGithub.pdb
